@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitcoinGetAddress", "bitcoinGetAddress\bitcoinGetAddress.csproj", "{05477C71-2562-4049-89FC-5AA1C673C638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05477C71-2562-4049-89FC-5AA1C673C638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05477C71-2562-4049-89FC-5AA1C673C638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05477C71-2562-4049-89FC-5AA1C673C638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05477C71-2562-4049-89FC-5AA1C673C638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50360DE2-16C8-4FA2-B076-B00F83852860}
+	EndGlobalSection
+EndGlobal
